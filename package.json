@@ -1,0 +1,24 @@
+{
+  "name": "awesome-event-emitter",
+  "version": "0.0.1",
+  "description": "Very awesome event emitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArStah/node-awesome-event-emitter.git"
+  },
+  "keywords": [
+    "awesome",
+    "event",
+    "emitter"
+  ],
+  "author": "Arsen Stahanov <arsen.stahanov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArStah/node-awesome-event-emitter/issues"
+  },
+  "homepage": "https://github.com/ArStah/node-awesome-event-emitter#readme"
+}
